@@ -122,7 +122,6 @@ nav.navbar.bootsnav {
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
-    text-transform: uppercase;
 }
 /*.navbar-brand*/
 
@@ -130,7 +129,6 @@ nav.navbar.bootsnav {
 nav.navbar.bootsnav ul.nav > li > a {
     font-size: 16px;
     font-weight: 400;
-    text-transform:uppercase;
     -webkit-transition: 0.3s linear; 
     -moz-transition: 0.3s linear; 
     -ms-transition: 0.3s linear; 
@@ -209,7 +207,6 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     color: #fff;
     font-size: 54px;
     font-weight: 700;
-    text-transform: uppercase;
     line-height: 1.5;
 }
 .header-text h2 span {color: #d92cf9;}
@@ -217,7 +214,6 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     color: #fff;
     font-size: 20px;
     font-weight: 300;
-    text-transform: uppercase;
     margin: 30px 0 60px;
     letter-spacing: 1px;
 }
@@ -248,7 +244,6 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 .single-about-txt h3 {
     font-size:18px;
     color: #3c4258;
-    text-transform: initial;
     line-height: 1.8;
 }
 .single-about-txt p {
@@ -337,7 +332,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 .education-horizontal-timeline .col-sm-4 {padding:0 2px;}
 
 .single-horizontal-timeline .experience-time h3{}
-.single-horizontal-timeline .experience-time h3 span{text-transform:lowercase;}
+.single-horizontal-timeline .experience-time h3 span{}
 .single-horizontal-timeline .timeline-content h5 {margin: 15px 0;}
 .single-horizontal-timeline p {color: #999fb3;max-width: 335px;}
 
@@ -374,7 +369,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .section-heading h2 {
     font-size: 24px;
     font-weight: 600;
-    text-transform: uppercase;
+
     padding-bottom: 50px;
     border-bottom: 1px solid #e5ebf2;
 }
@@ -391,7 +386,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .barWrapper {
     font-weight: 400;
     font-size: 16px;
-    text-transform: uppercase;
+
 }
 .progress {
     border-radius:3px;
@@ -454,7 +449,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     font-weight: 300;
     color: #636a82;
     margin-top: 14px;
-    text-transform: uppercase;
+
 }
 /*experience-time*/
 
@@ -486,7 +481,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .timeline-content h4.title {
     font-size: 16px;
     font-weight: 400;
-    text-transform: uppercase;
+
 }
 .timeline-content h5 {
     color: #636a82;
@@ -633,7 +628,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     background:rgba(31,44,108,.5);
     display:flex;
     align-items:center;
-    text-transform: uppercase;
     justify-content:center;
     flex-direction:row;
     -webkit-transform:scale(0);
